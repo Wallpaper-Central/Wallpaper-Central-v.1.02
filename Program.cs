@@ -2,9 +2,9 @@
 using System.Runtime.InteropServices;
 using System.IO;
 
-namespace WallpaperChanger
+namespace WallpaperCentral
 {
-    class Program
+    class WallpaperCentral
     {
         // Importa a função SystemParametersInfo da User32.dll
         [DllImport("user32.dll", CharSet = CharSet.Auto)]
@@ -22,9 +22,6 @@ namespace WallpaperChanger
             if (File.Exists(wallpaperPath))
             {
                 SetWallpaper(wallpaperPath);
-            }
-            else
-            {
             }
         }
 
