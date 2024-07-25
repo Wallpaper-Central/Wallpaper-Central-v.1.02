@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\WallpaperChanger\bin\Debug\net8.0\WallpaperChanger.exe
+C:\Users\Usuario\Desktop\WallpaperChanger\bin\Debug\net8.0\WallpaperChanger.deps.json
+C:\Users\Usuario\Desktop\WallpaperChanger\bin\Debug\net8.0\WallpaperChanger.runtimeconfig.json
+C:\Users\Usuario\Desktop\WallpaperChanger\bin\Debug\net8.0\WallpaperChanger.dll
+C:\Users\Usuario\Desktop\WallpaperChanger\bin\Debug\net8.0\WallpaperChanger.pdb
+C:\Users\Usuario\Desktop\WallpaperChanger\obj\Debug\net8.0\WallpaperChanger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\WallpaperChanger\obj\Debug\net8.0\WallpaperChanger.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\WallpaperChanger\obj\Debug\net8.0\WallpaperChanger.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\WallpaperChanger\obj\Debug\net8.0\WallpaperChanger.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\WallpaperChanger\obj\Debug\net8.0\WallpaperChanger.dll
+C:\Users\Usuario\Desktop\WallpaperChanger\obj\Debug\net8.0\refint\WallpaperChanger.dll
+C:\Users\Usuario\Desktop\WallpaperChanger\obj\Debug\net8.0\WallpaperChanger.pdb
+C:\Users\Usuario\Desktop\WallpaperChanger\obj\Debug\net8.0\WallpaperChanger.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\WallpaperChanger\obj\Debug\net8.0\ref\WallpaperChanger.dll
+C:\Users\Usuario\Desktop\WallpaperChanger\bin\Debug\net8.0\wallpaper.png
